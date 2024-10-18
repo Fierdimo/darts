@@ -1,0 +1,13 @@
+[
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuestas": ["Madrid", "París", "Berlín", "Lisboa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "respuestas": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+      "correcta": 2
+    }
+  ]
+  
